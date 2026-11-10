@@ -1,0 +1,3 @@
+PROFESSOR;755;gabriel;0
+FUNCIONARIO;900;gabriel;0
+ALUNO;123;gabriel;1

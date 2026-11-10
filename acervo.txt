@@ -1,0 +1,3 @@
+LIVRO;888;gab;2005;false;gabriel;130
+LIVRO;888;gab;2005;true;gabriel;133
+LIVRO;2;vaca;2006;true;carlos;144
